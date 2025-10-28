@@ -1,8 +1,1 @@
-# projeto-tickets-de-suporte
-# projeto-tickets-de-suporte
-# projeto-tickets-de-suporte
-# projeto-tickets-de-suporte
-# projeto-tickets-de-suporte
-# projeto-tickets-de-suporte
-# projeto-tickets-de-suporte
-# projeto-tickets-de-suporte
+Uma API do zero para gerenciar tickets de suporte técnico. A API permite criar, atualizar, listar e filtrar tickets, além de fechar e excluir tickets. Com rotas para criar, obter, atualizar e excluir tickets. Os dados enviados nas requisições incluem informações sobre equipamento, descrição e nome do usuário. geração automática de IDs e permitir a edição de equipamento e descrição, mantendo o nome do usuário fixo. 
